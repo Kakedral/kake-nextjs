@@ -1,28 +1,3 @@
-===========================================================================orz==
-File Name     : log.txt
-Creation Date : 26.03.23 12:10:26
-Last Modified : 27.03.23 20:40:53
-Author        : Daniel Tianhou Zhang, daniel.t.zhang@ntnu.no
-Organization  : NTNU, Norway
-============================================================================owo=
 
-26.03.23 12:10:26:
-
-
-##  install tailwind for nextjs:
-# https://tailwindcss.com/docs/guides/nextjs
-npm install -D tailwindcss postcss autoprefixer
-npx tailwindcss init -p
-
-
-##  dark theme:
-# https://dev.to/chinmaymhatre/implementing-dark-mode-in-nextjs-with-tailwind-css-and-next-themes-a4e
-npm i next-themes
-
-## blog structure / tutorial:
-# https://nextjs.org/learn/basics/data-fetching/blog-data
-npm install gray-matter
-npm install remark remark-html
-npm install date-fns
 
 
