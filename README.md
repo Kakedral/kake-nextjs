@@ -1,1 +1,2 @@
-This is DZ24's personal website.
+This is Kiet's personal website.
+Forked from https://github.com/dz24/dz24-nextjs.
